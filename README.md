@@ -1,27 +1,25 @@
-# Awesome NGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome NGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
 > A curated list of awesome open source and freemium softwares/tools for NGOs
 
 Contributions welcome. Add links through [pull requests](https://github.com/thiras/awesome-ngo/pulls) or create an [issue](https://github.com/thiras/awesome-ngo/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
-## Table of Content
-- [Awesome NGO ![Awesome](https://awesome.re)](#awesome-ngo-awesome)
-  - [Table of Content](#table-of-content)
-  - [Tools](#tools)
-    - [OS](#os)
-    - [Office Suite](#office-suite)
-    - [E-mail](#e-mail)
-    - [Project Management](#project-management)
-    - [Messaging](#messaging)
-    - [CMS (Content Management System)](#cms-content-management-system)
-    - [ERP/CRM](#erpcrm)
-    - [Data and Data Collection](#data-and-data-collection)
-      - [Visualisation](#visualisation)
-      - [Geo](#geo)
-  - [Guides](#guides)
-    - [Wordpress](#wordpress)
-    - [Lists](#lists)
-  - [Thanks](#thanks)
+## Table of Content <!-- omit in toc -->
+- [Tools](#tools)
+  - [OS](#os)
+  - [Office Suite](#office-suite)
+  - [E-mail](#e-mail)
+  - [Project Management](#project-management)
+  - [Messaging](#messaging)
+  - [CMS (Content Management System)](#cms-content-management-system)
+  - [ERP/CRM](#erpcrm)
+  - [Data and Data Collection](#data-and-data-collection)
+    - [Visualisation](#visualisation)
+    - [Geo](#geo)
+- [Guides](#guides)
+  - [Wordpress](#wordpress)
+  - [Lists](#lists)
+- [Thanks](#thanks)
 
 ## Tools
 
