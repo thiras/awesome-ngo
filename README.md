@@ -7,7 +7,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 ## Table of Content <!-- omit in toc -->
 - [Tools](#tools)
     - [OS](#os)
-    - [Office Suite](#office-suite)
+    - [Office Suite and Collaboration Suite](#office-suite-and-collaboration-suite)
     - [E-mail](#e-mail)
     - [Project Management](#project-management)
     - [Messaging](#messaging)
@@ -27,8 +27,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 ### OS
 * [Ubuntu](https://www.ubuntu.com/) - Most used GNU/Linux Distribution for desktop
 
-### Office Suite
+### Office Suite and Collaboration Suite
 * [LibreOffice](https://www.libreoffice.org/) - Full, open source office suite
+* [Nextcloud](https://nextcloud.com/) - Awesome self-hosted full GSuite alternative with encryption and collaboration suite
 
 ### E-mail
 * [Google for Nonprofits](https://www.google.com/nonprofits/) - Google's services for nonprofits including Gsuite(Freemium)
