@@ -4,6 +4,25 @@
 
 Contributions welcome. Add links through [pull requests](https://github.com/thiras/awesome-ngo/pulls) or create an [issue](https://github.com/thiras/awesome-ngo/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
+## Table of Content
+- [Awesome NGO ![Awesome](https://awesome.re)](#awesome-ngo-awesome)
+  - [Table of Content](#table-of-content)
+  - [Tools](#tools)
+    - [OS](#os)
+    - [Office Suite](#office-suite)
+    - [E-mail](#e-mail)
+    - [Project Management](#project-management)
+    - [Messaging](#messaging)
+    - [CMS (Content Management System)](#cms-content-management-system)
+    - [ERP/CRM](#erpcrm)
+    - [Data and Data Collection](#data-and-data-collection)
+      - [Visualisation](#visualisation)
+      - [Geo](#geo)
+  - [Guides](#guides)
+    - [Wordpress](#wordpress)
+    - [Lists](#lists)
+  - [Thanks](#thanks)
+
 ## Tools
 
 ### OS
@@ -29,12 +48,12 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 ### CMS (Content Management System)
 * [Wordpress](https://wordpress.org) - World's famousest open source CMS
 
-### ERP/CRM-ishes
+### ERP/CRM
 * [CiviCRM](https://civicrm.org/) - Open source CRM system for NGOs works on Wordpress, Drupal, Joomla
 * [Odoo](https://www.odoo.com/) - Semi-open source ERP(Commercial Software)
 * [ERPNext](https://erpnext.com/) - Open source fully featured ERP written in Python
 
-### Data & Data Collection
+### Data and Data Collection
 * [HDX](https://data.humdata.org/) - Humanitarian Data Exchange
 * [Open Data Kit](https://opendatakit.org/) -  Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 * [Ona](https://ona.io/home/) - Open source data collection platform
@@ -61,3 +80,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ### Lists
 * [HFOSS](http://foss2serve.org/index.php/HFOSS_Projects) - A curated list of Humanitarian Free Open Source Softwares
+
+## Thanks
+* [Awesome Project](https://github.com/sindresorhus/awesome) - Amazing project that inspires this project
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - Awesome project for PostgreSQL. Inspired by their [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md)
