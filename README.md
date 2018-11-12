@@ -6,25 +6,26 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ## Table of Content <!-- omit in toc -->
 - [Tools](#tools)
-  - [OS](#os)
-  - [Office Suite](#office-suite)
-  - [E-mail](#e-mail)
-  - [Project Management](#project-management)
-  - [Messaging](#messaging)
-  - [CMS (Content Management System)](#cms-content-management-system)
-  - [ERP/CRM](#erpcrm)
-  - [Data and Data Collection](#data-and-data-collection)
-    - [Visualisation](#visualisation)
-    - [Geo](#geo)
+    - [OS](#os)
+    - [Office Suite](#office-suite)
+    - [E-mail](#e-mail)
+    - [Project Management](#project-management)
+    - [Messaging](#messaging)
+    - [CMS (Content Management System)](#cms-content-management-system)
+    - [ERP/CRM](#erpcrm)
+    - [Data](#data)
+        - [Data Management](#data-management)
+        - [Visualisation](#visualisation)
+        - [Geo](#geo)
 - [Guides](#guides)
-  - [Wordpress](#wordpress)
-  - [Lists](#lists)
+    - [Wordpress](#wordpress)
+    - [Lists](#lists)
 - [Thanks](#thanks)
 
 ## Tools
 
 ### OS
-* [Ubuntu](https://www.ubuntu.com/) - Most used GNU/Linux Distribution
+* [Ubuntu](https://www.ubuntu.com/) - Most used GNU/Linux Distribution for desktop
 
 ### Office Suite
 * [LibreOffice](https://www.libreoffice.org/) - Full, open source office suite
@@ -51,11 +52,14 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Odoo](https://www.odoo.com/) - Semi-open source ERP(Commercial Software)
 * [ERPNext](https://erpnext.com/) - Open source fully featured ERP written in Python
 
-### Data and Data Collection
+### Data
 * [HDX](https://data.humdata.org/) - Humanitarian Data Exchange
 * [Open Data Kit](https://opendatakit.org/) -  Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 * [Ona](https://ona.io/home/) - Open source data collection platform
 * [KoBoToolbox](https://www.kobotoolbox.org/) - Open source data collection toolset
+
+#### Data Management
+* [Casebox](https://www.casebox.org/) - Open source case management and organization-wide collaboration software
 
 #### Visualisation
 * [Metabase](https://metabase.com/) - Data Visualizer with wide support for many databases
