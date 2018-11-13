@@ -87,5 +87,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [HFOSS](http://foss2serve.org/index.php/HFOSS_Projects) - A curated list of Humanitarian Free Open Source Softwares
 
 ## Thanks
-* [Awesome Project](https://github.com/sindresorhus/awesome) - Amazing project that inspires this project
-* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - Awesome project for PostgreSQL. Inspired by their [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md)
+* [Awesome Project](https://github.com/sindresorhus/awesome) - For this awesome project
+* [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - For their [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md)
+* [P2P Foundation](http://wiki.p2pfoundation.net/Main_Page) - For the motto
