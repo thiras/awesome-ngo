@@ -55,7 +55,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [CiviCRM](https://civicrm.org/) - Open source CRM system for NGOs works on Wordpress, Drupal, Joomla
 * [Odoo](https://www.odoo.com/) - Semi-open source ERP(Commercial Software)
 * [ERPNext](https://erpnext.com/) - Open source fully featured ERP written in Python
-* [tendenci](https://www.tendenci.com/) - Free and open-source fully featured association management software including membership management, recurring donations, event management, website builder, human resources management and many more
+* [Tendenci](https://www.tendenci.com/) - Free and open-source fully featured association management software including membership management, recurring donations, event management, website builder, human resources management and many more
 
 ### Data
 * [HDX](https://data.humdata.org/) - Humanitarian Data Exchange
