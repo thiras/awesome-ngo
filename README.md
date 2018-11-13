@@ -17,6 +17,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
         - [Data Management](#data-management)
         - [Visualisation](#visualisation)
         - [Geo](#geo)
+        - [Healthcare](#healthcare)
 - [Guides](#guides)
     - [Wordpress](#wordpress)
     - [Lists](#lists)
@@ -78,13 +79,17 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [OpenStreetMaps](https://www.openstreetmap.org) - Open source extensive mapping solutions
 * [Cadasta](https://cadasta.org/platform/) - An open and flexible suite of mobile and web based tools designed to help users collect, manage, and store land and resource rights data
 
+#### Healthcare
+* [HospitalRun](http://hospitalrun.io/) - Free and open-source healthcare/hospital management software
+* [OpenMRS](https://openmrs.org/) - Free and open-source medical record system
+
 ## Guides
 
 ### Wordpress
 * [NonprofitWP](https://nonprofitwp.org/) - Complete wordpress guide for nonprofits
 
 ### Lists
-* [HFOSS](http://foss2serve.org/index.php/HFOSS_Projects) - A curated list of Humanitarian Free Open Source Softwares
+* [HFOSS](http://foss2serve.org/index.php/HFOSS_Projects) - Yet another curated list of Humanitarian Free Open Source Softwares
 
 ## Thanks
 * [Awesome Project](https://github.com/sindresorhus/awesome) - For this awesome project
