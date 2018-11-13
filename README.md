@@ -2,7 +2,7 @@
 
 > **Together we know everything, together we have everything**
 
-Contributions welcome. Add links through [pull requests](https://github.com/thiras/awesome-ngo/pulls) or create an [issue](https://github.com/thiras/awesome-ngo/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
+Contributions welcome. Add links through [pull requests](https://github.com/thiras/awesome-ngo/pulls) or create an [issue](https://github.com/thiras/awesome-ngo/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md). All contributors should comply with [code of conduct](https://github.com/thiras/awesome-ngo/blob/master/CODE_OF_CONDUCT.md).
 
 ## Table of Content <!-- omit in toc -->
 - [Tools](#tools)
@@ -79,6 +79,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [OpenMapKit](http://openmapkit.org/index.html) - Open Data Collection Platform
 * [OpenStreetMaps](https://www.openstreetmap.org) - Open source extensive mapping solutions
 * [Cadasta](https://cadasta.org/platform/) - An open and flexible suite of mobile and web based tools designed to help users collect, manage, and store land and resource rights data
+* [GeoNode](http://geonode.org/) - Free and open-source geospatial content management system written in Django
 
 #### Healthcare
 * [HospitalRun](http://hospitalrun.io/) - Free and open-source healthcare/hospital management software
