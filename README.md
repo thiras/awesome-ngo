@@ -1,6 +1,6 @@
 # Awesome NGO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <!-- omit in toc -->
 
-> A curated list of awesome open source and freemium softwares/tools for NGOs
+> **Together we know everything, together we have everything**
 
 Contributions welcome. Add links through [pull requests](https://github.com/thiras/awesome-ngo/pulls) or create an [issue](https://github.com/thiras/awesome-ngo/issues) to start a discussion. Please take a look at the [contribution guidelines](CONTRIBUTING.md).
 
