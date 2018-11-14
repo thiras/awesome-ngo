@@ -43,6 +43,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Trello](https://trello.com) - Easy to use, kanban style collaborative project management system(Freemium & Commercial)
 * [Taiga](https://taiga.io/) - Open source project management project software
 * [OpenProject](https://www.openproject.org/) - Open soruce project management software written with Ruby
+* [Redmine](https://www.redmine.org/) - Fully-featured, free and open-source project management software written in Ruby on Rails
 
 ### Messaging
 * [Slack for Nonprofits](https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits) - 85% discount on Slack plans(Freemium & Commercial)
