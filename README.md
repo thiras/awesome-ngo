@@ -89,6 +89,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ### Wordpress
 * [NonprofitWP](https://nonprofitwp.org/) - Complete wordpress guide for nonprofits
+* [awesome-wordpress](https://github.com/miziomon/awesome-wordpress) - Yet another awesome project for Wordpress
 
 ### Lists
 * [HFOSS](http://foss2serve.org/index.php/HFOSS_Projects) - Yet another curated list of Humanitarian Free Open Source Softwares
