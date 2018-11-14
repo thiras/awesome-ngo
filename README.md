@@ -6,7 +6,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ## Table of Content <!-- omit in toc -->
 - [Tools](#tools)
-    - [OS](#os)
+    - [Operating System](#operating-system)
     - [Office, Collaboration & Cloud](#office-collaboration--cloud)
     - [E-mail](#e-mail)
     - [Project Management](#project-management)
@@ -25,8 +25,8 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ## Tools
 
-### OS
-* [Ubuntu](https://www.ubuntu.com/) - Most used GNU/Linux Distribution for desktop
+### Operating System
+* [Ubuntu](https://www.ubuntu.com/) - Very user-friendly distribution of GNU/Linux for desktop computers
 
 ### Office, Collaboration & Cloud
 * [LibreOffice](https://www.libreoffice.org/) - Full, open source office suite
