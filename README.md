@@ -32,6 +32,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [LibreOffice](https://www.libreoffice.org/) - Full, open source office suite
 * [Nextcloud](https://nextcloud.com/) - Awesome self-hosted full GSuite alternative with encryption and collaboration suite
 * [Syncthing](https://syncthing.net/) - Torrent-like federated cloud storage (and collaboration suite)
+* [Loomio](https://www.loomio.org/) - Free and open-source collaborative decision making and forum software
 
 ### E-mail
 * [Google for Nonprofits](https://www.google.com/nonprofits/) - Google's services for nonprofits including Gsuite(Freemium)
