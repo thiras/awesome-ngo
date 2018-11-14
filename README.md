@@ -8,6 +8,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 - [Tools](#tools)
     - [Operating System](#operating-system)
     - [Office, Collaboration & Cloud](#office-collaboration--cloud)
+    - [Social Intranet](#social-intranet)
     - [E-mail](#e-mail)
     - [Project Management](#project-management)
     - [Messaging](#messaging)
@@ -34,6 +35,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Syncthing](https://syncthing.net/) - Torrent-like federated cloud storage (and collaboration suite)
 * [Loomio](https://www.loomio.org/) - Free and open-source collaborative decision making and forum software
 * [Doodle](https://doodle.com/) - Collaborative meeting/event scheduler (Freemium & Commercial)
+
+### Social Intranet
+* [HumHub](https://www.humhub.org/en) - Semi open-source social intranet software
+* [Elgg](https://elgg.org/) - Well documented, free and open-source social intranet software 
 
 ### E-mail
 * [Google for Nonprofits](https://www.google.com/nonprofits/) - Google's services for nonprofits including Gsuite(Freemium)
