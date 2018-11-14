@@ -51,7 +51,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Ring](https://ring.cx/) - Open source, secure Skype replacement
 
 ### CMS (Content Management System)
-* [Wordpress](https://wordpress.org) - World's famousest open source CMS
+* [Wordpress](https://wordpress.org) - World's most famous open source CMS
 * [Drupal](https://www.drupal.org/) - Open-source security-first approach CMS
 
 ### ERP/CRM
