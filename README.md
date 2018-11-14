@@ -52,6 +52,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ### Messaging
 * [Slack for Nonprofits](https://get.slack.help/hc/en-us/articles/204368833-Slack-for-Nonprofits) - 85% discount on Slack plans(Freemium & Commercial)
+* [Mattermost](https://mattermost.com/) - Semi open-source Slack alternative
 * [Riot](https://about.riot.im/) - Open source, secure, decentarilized chat system
 * [Ring](https://ring.cx/) - Open source, secure Skype replacement
 
