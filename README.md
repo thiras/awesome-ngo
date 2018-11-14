@@ -33,6 +33,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Nextcloud](https://nextcloud.com/) - Awesome self-hosted full GSuite alternative with encryption and collaboration suite
 * [Syncthing](https://syncthing.net/) - Torrent-like federated cloud storage (and collaboration suite)
 * [Loomio](https://www.loomio.org/) - Free and open-source collaborative decision making and forum software
+* [Doodle](https://doodle.com/) - Collaborative meeting/event scheduler (Freemium & Commercial)
 
 ### E-mail
 * [Google for Nonprofits](https://www.google.com/nonprofits/) - Google's services for nonprofits including Gsuite(Freemium)
