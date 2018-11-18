@@ -12,6 +12,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
     - [E-mail](#e-mail)
     - [Project Management](#project-management)
     - [Messaging](#messaging)
+    - [Publishing](#publishing)
     - [CMS (Content Management System)](#cms-content-management-system)
     - [ERP/CRM](#erpcrm)
     - [Data](#data)
