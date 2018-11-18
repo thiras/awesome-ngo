@@ -81,6 +81,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Nuxeo](https://www.nuxeo.com/) - Semi open-source content management system for business applications
 
 #### Visualisation
+* [Redash](https://github.com/getredash/redash) - Open-source business intelligence & data visualizer
 * [Metabase](https://metabase.com/) - Data Visualizer with wide support for many databases
 * [Google DataStuido](https://marketingplatform.google.com/about/data-studio/benefits/) - Google's data visualization platform(Freemium & Commercial)
 * [Tableau Public](https://public.tableau.com/en-us/s/) - Free Tableau services for public(Freemium)
