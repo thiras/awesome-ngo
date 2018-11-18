@@ -78,6 +78,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 #### Data Management
 * [Casebox](https://www.casebox.org/) - Open source case management and organization-wide collaboration software
+* [Nuxeo](https://www.nuxeo.com/) - Open-source content management system for business applications
 
 #### Visualisation
 * [Metabase](https://metabase.com/) - Data Visualizer with wide support for many databases
