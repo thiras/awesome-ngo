@@ -79,6 +79,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 #### Data Management
 * [Casebox](https://www.casebox.org/) - Open source case management and organization-wide collaboration software
 * [Nuxeo](https://www.nuxeo.com/) - Semi open-source content management system for business applications
+* [Primero](https://github.com/primeroIMS/primero) - Primero is an open-source application designed to help child protection workers and social workers in humanitarian and development contexts manage data on vulnerable children and survivors of violence.
 
 #### Visualisation
 * [Redash](https://github.com/getredash/redash) - Open-source business intelligence & data visualizer
