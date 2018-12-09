@@ -68,6 +68,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Wordpress](https://wordpress.org) - World's most famous open source CMS
 * [Drupal](https://www.drupal.org/) - Open-source security-first approach CMS
 * [Joomla!](https://www.joomla.org/) - An award-winning free and open source CMS
+* [Hugo](https://gohugo.io/) - Free and open source static HTML and CSS website generator written in Go
 
 ### ERP/CRM
 * [CiviCRM](https://civicrm.org/) - Open source CRM system for NGOs works on Wordpress, Drupal, Joomla
