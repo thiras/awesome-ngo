@@ -6,24 +6,25 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 
 ## Table of Content <!-- omit in toc -->
 - [Tools](#tools)
-    - [Operating System](#operating-system)
-    - [Office, Collaboration & Cloud](#office-collaboration--cloud)
-    - [Social Intranet](#social-intranet)
-    - [E-mail](#e-mail)
-    - [Project Management](#project-management)
-    - [Messaging](#messaging)
-    - [Publishing](#publishing)
-    - [Broadcasting & Streaming](#broadcasting--streaming)
-    - [CMS (Content Management System)](#cms-content-management-system)
-    - [ERP/CRM](#erpcrm)
-    - [Data](#data)
-        - [Data Management](#data-management)
-        - [Visualisation](#visualisation)
-        - [Geo](#geo)
-        - [Healthcare](#healthcare)
+  - [Operating System](#operating-system)
+  - [Office, Collaboration & Cloud](#office-collaboration--cloud)
+  - [Collaborative Decision Making](#collaborative-decision-making)
+  - [Social Intranet](#social-intranet)
+  - [E-mail](#e-mail)
+  - [Project Management](#project-management)
+  - [Messaging](#messaging)
+  - [Publishing](#publishing)
+  - [Broadcasting & Streaming](#broadcasting--streaming)
+  - [CMS (Content Management System)](#cms-content-management-system)
+  - [ERP/CRM](#erpcrm)
+  - [Data](#data)
+    - [Data Management](#data-management)
+    - [Visualisation](#visualisation)
+    - [Geo](#geo)
+    - [Healthcare](#healthcare)
 - [Guides](#guides)
-    - [Wordpress](#wordpress)
-    - [Lists](#lists)
+  - [Wordpress](#wordpress)
+  - [Lists](#lists)
 - [Thanks](#thanks)
 
 ## Tools
@@ -35,12 +36,16 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [LibreOffice](https://www.libreoffice.org/) - Full, open source office suite
 * [Nextcloud](https://nextcloud.com/) - Awesome self-hosted full GSuite alternative with encryption and collaboration suite
 * [Syncthing](https://syncthing.net/) - Torrent-like federated cloud storage (and collaboration suite)
-* [Loomio](https://www.loomio.org/) - Free and open-source collaborative decision making and forum software
 * [Doodle](https://doodle.com/) - Collaborative meeting/event scheduler (Freemium & Commercial)
+
+### Collaborative Decision Making
+* [Loomio](https://www.loomio.org/) - Free and open-source collaborative decision making and forum software
+* [Consul](https://consulproject.org) - Free and open-source collaborative decision making and budgeting software used by many government bodies all around the world.
+* [Decidim](https://decidim.org/) - free open-source participatory democracy for cities and organizations
 
 ### Social Intranet
 * [HumHub](https://www.humhub.org/en) - Semi open-source social intranet software
-* [Elgg](https://elgg.org/) - Well documented, free and open-source social intranet software 
+* [Elgg](https://elgg.org/) - Well documented, free and open-source social intranet software
 
 ### E-mail
 * [Google for Nonprofits](https://www.google.com/nonprofits/) - Google's services for nonprofits including Gsuite(Freemium)
@@ -68,7 +73,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Wordpress](https://wordpress.org) - World's most famous open source CMS
 * [Drupal](https://www.drupal.org/) - Open-source security-first approach CMS
 * [Joomla!](https://www.joomla.org/) - An award-winning free and open source CMS
-* [Hugo](https://gohugo.io/) - Free and open source static HTML and CSS website generator written in Go
 
 ### ERP/CRM
 * [CiviCRM](https://civicrm.org/) - Open source CRM system for NGOs works on Wordpress, Drupal, Joomla
