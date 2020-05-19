@@ -13,6 +13,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
   - [E-mail](#e-mail)
   - [Project Management](#project-management)
   - [Messaging](#messaging)
+    - [Video Conferencing](#video-conferencing)
   - [Publishing](#publishing)
   - [Broadcasting & Streaming](#broadcasting--streaming)
   - [CMS (Content Management System)](#cms-content-management-system)
@@ -62,6 +63,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Mattermost](https://mattermost.com/) - Semi open-source Slack alternative
 * [Riot](https://about.riot.im/) - Open source, secure, decentarilized chat system
 * [Ring](https://ring.cx/) - Open source, secure Skype replacement
+
+#### Video Conferencing
+* [Jitsi](https://jitsi.org/) - Jitsi is a set of open-source projects that allows you to easily build and deploy secure videoconferencing solutions.
 
 ### Publishing
 * [Scribus](https://www.scribus.net/) - Fully featured, free and open-source desktop publishing tool
