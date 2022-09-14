@@ -116,6 +116,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 #### Healthcare
 * [HospitalRun](http://hospitalrun.io/) - Free and open-source healthcare/hospital management software
 * [OpenMRS](https://openmrs.org/) - Free and open-source medical record system
+* [DHIS2](https://dhis2.org/) - Free and open-source health management information system, typically used by governmental bodies and NGOs to collect, manage, aggregate, visualize & analyze data.
 
 ## Guides
 
