@@ -87,6 +87,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Tendenci](https://www.tendenci.com/) - Free and open-source fully featured association management software including membership management, recurring donations, event management, website builder, human resources management and many more
 
 ### Data
+* [CharitySense Data](https://data.charitysense.com/agents) - Free, no-auth nonprofit data API and research dataset built from IRS Form 990 filings, federal awards, audits, exclusion lists, and public-web evidence
 * [HDX](https://data.humdata.org/) - Humanitarian Data Exchange
 * [Open Data Kit](https://opendatakit.org/) -  Open Data Kit community produces free and open-source software for collecting, managing, and using data in resource-constrained environments.
 * [Ona](https://ona.io/home/) - Open source data collection platform
