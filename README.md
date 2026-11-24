@@ -130,3 +130,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/thir
 * [Awesome Project](https://github.com/sindresorhus/awesome) - For this awesome project
 * [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres) - For their [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md)
 * [P2P Foundation](http://wiki.p2pfoundation.net/Main_Page) - For the motto
+
+
+## Public Data APIs (Apify)
+
+- [Grants.gov Scraper](https://apify.com/publicrecords/grants-gov-scraper) - Open US federal grants: agency, deadline, eligibility and source link (Apify Actor, API + MCP).
+- [Federal Contracts Feed (SAM.gov + Grants.gov)](https://apify.com/publicrecords/govcon-opportunity-feed) - New US federal contract and grant notices from SAM.gov and Grants.gov in one feed (Apify Actor, API + MCP).
+- [USAspending Awards Scraper](https://apify.com/publicrecords/usaspending-awards-scraper) - US federal contract and grant awards by agency, recipient, NAICS and period (Apify Actor, API + MCP).
